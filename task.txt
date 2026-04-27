@@ -1,0 +1,2 @@
+Task 1: Study Git
+Task 2: Practice UML
